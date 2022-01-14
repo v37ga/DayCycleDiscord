@@ -11,6 +11,6 @@
 
 /* Variables */
 :root {
-    --bkgcolor: rgba(13,13,13) !important;
+    --bkgcolor: rgba(13,13,13,0.1) !important;
     --detail: transparent;
 }
