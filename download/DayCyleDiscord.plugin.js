@@ -2,7 +2,7 @@
  * @name DayCycleDiscord
  * @author v37ga
  * @description changes your wallpaper depending on what time is it.
- * @version 1.2.0
+ * @version 1.3.0
  * @invite inviteCode
  * @authorId 368194347222695938
  * @authorLink https://twitter.com/veigaffa
@@ -21,9 +21,9 @@
     root()
     function root(){
 
-      var imagemManha = 'https://wallpapercave.com/wp/wp6689710.jpg'
-      var imagemTarde = 'https://wallpaperaccess.com/full/685208.jpg'
-      var imagemNoite = 'https://i.pinimg.com/originals/0e/97/91/0e979187086303dc147753216d3b701c.jpg'
+      var imagemManha = 'https://wallpapercave.com/wp/wp3461372.jpg'
+      var imagemTarde = 'https://wallpapercave.com/wp/wp4676613.png'
+      var imagemNoite = 'https://wallpapercave.com/wp/wp4676574.jpg'
 
       novoHorario()
       function novoHorario(){
