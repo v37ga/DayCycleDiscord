@@ -1,6 +1,6 @@
 # Day Cycle Discord
 
-Download: <a href="https://github.com/v37ga/DayCycleDiscord/blob/main/download/Day%20Cycle%20Discord%201.1.0%20.rar?raw=true">[here]</a>
+Download: <a href="https://github.com/v37ga/DayCycleDiscord/blob/main/download/Day%20Cycle%20Discord%201.3.0.rar?raw=true">[here]</a>
 <br>
 Screenshots: <a href="https://github.com/v37ga/DayCycleDiscord/blob/main/preview.md">[here]</a>
 
