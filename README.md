@@ -2,7 +2,6 @@
 
 Download: <a href="https://github.com/v37ga/DayCycleDiscord/raw/main/download/Day%20Cycle%20Discord%201.3.0.rar">[here]</a>
 <br>
-Screenshots: <a href="https://github.com/v37ga/DayCycleDiscord/blob/main/download/Day%20Cycle%20Discord%201.3.0.rar?raw=true">[here]</a>
 
 ig: <a href="http://instagram.com/fabio.veiga_">@fabio.veiga_</a><br>
 Changes the background of your discord based on what time is it.
