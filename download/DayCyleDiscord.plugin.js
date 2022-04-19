@@ -2,7 +2,7 @@
  * @name DayCycleDiscord
  * @author v37ga
  * @description changes your wallpaper depending on what time is it.
- * @version 1.3.0
+ * @version 1.2.0
  * @invite inviteCode
  * @authorId 368194347222695938
  * @authorLink https://twitter.com/veigaffa
